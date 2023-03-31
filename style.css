@@ -1,0 +1,26 @@
+body, button {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14pt;
+  text-align: center;
+}
+
+body {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2 {
+  font-size: 18pt;
+}
+
+#response {
+  border: 2px solid black;
+  border-radius: 5px;
+  min-height: 200px;
+  padding: 10px;
+}
+
+img {
+  max-width: 300px;
+}
