@@ -1,6 +1,3 @@
-/**
- * A program to fetch and display the Astronomy Picture of the Day from the NASA API.
- */
 "use strict";
 (function(){
 
